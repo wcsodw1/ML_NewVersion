@@ -3,11 +3,14 @@ Machine Learning new version for theorem and programming
 
 
 ## Fundamental : 
-1.
-2.
-3.調整權重 : 
-4.Feature :  
-Evaluation :     
+1.Prepocessing :
+    1.a Import necessary package|Library
+    1.b Get|Grab data 
+    1.c Data Obserave : 
+        - .Describe | 
+2.Feature Engineering : 
+3.Modeling  
+4.Evaluation :     
     - Hyper-Parameter(參數調教): find the best hyper-parameter 找出各模型最適超參數
         - ex :  GridSearchCV, Random Search
     - 調整LossFunction計算方式
