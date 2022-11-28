@@ -9,6 +9,11 @@ Machine Learning new version for theorem and programming
     1.c Data Obserave : 
         - .Describe | 
     1.d Scaling : 
+        - Normalization
+            - 常態化的某樣本特徵值 =（常態化前的 x 特徵值 — 所有樣本中最小的特徵值 x）/（所有樣本中最大的特徵值 x — 所有樣本中最小的特徵值 x）
+        - Standardization
+            - 標準化的某樣本特徵值=（標準化前的 x 特徵值 — 平均數） / 標準差
+            
 2.Feature Engineering : 
 3.Modeling :
     - XGBoost
